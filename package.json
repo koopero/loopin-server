@@ -1,6 +1,6 @@
 {
   "name": "loopin-server",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Loopin http / websocket server with built-in client",
   "main": "loopinServer.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/koopero/loopin-server#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
-    "horten-server": "^0.2.2",
+    "horten-server": "^0.2.x",
     "lodash": "^4.17.4",
     "require-dir": "^0.3.1",
     "serve-index": "^1.8.0"
