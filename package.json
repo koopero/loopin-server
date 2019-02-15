@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/koopero/loopin-server#readme",
   "dependencies": {
-    "body-parser": "^1.17.1",
+    "body-parser": "^1.18.3",
     "horten-server": "^0.2.x",
     "lodash": "^4.17.4",
-    "require-dir": "^0.3.1",
-    "serve-index": "^1.8.0"
+    "require-dir": "^1.2.0",
+    "serve-index": "^1.9.1"
   }
 }
